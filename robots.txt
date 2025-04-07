@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://misnova.netlify.app/sitemap.xml
+Sitemap: https://misnova.netlify.app/sitemap-misnova.xml
